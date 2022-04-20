@@ -27,7 +27,7 @@ public class BaseTest {
     }
 
     public void launchDriver() {
-
+        //This is the comment
         try {
             configProperties = new ConfigProperties();
             driver.get(configProperties.getProperty("applicationUrl"));
