@@ -1,0 +1,7 @@
+Pages\PageLibFunctions.class
+Pages\FormsDemoPage.class
+Utils\ConfigProperties.class
+Utils\MyReporter.class
+Pages\BasePage.class
+Pages\HomePage.class
+Pages\MainClass.class
